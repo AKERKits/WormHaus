@@ -2,7 +2,7 @@
 
 *Overview*
 
-The **AKER WormHaus** is a Vermicomposter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
+The **AKER WormHaus** is a vermicomposter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
 ![WormHaus](https://github.com/AKERKits/WormHaus/blob/master/Images/AKER%20-%20WormHaus%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
