@@ -1,3 +1,5 @@
+Design turned parametric by Gregoire Durrens for Aker.
+
 wormhaus_6_12_outline.dxf 
 wormhaus_6_12_pocket.dxf
 were generated with these parameters :
